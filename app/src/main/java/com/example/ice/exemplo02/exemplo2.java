@@ -11,6 +11,7 @@ public class exemplo2 extends AppCompatActivity {
 
     private Button btnProfessor;
     private EditText edtNome;
+    //private static EditText PESSOA_NOME;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
